@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiDayat12
 - 👀 I’m interested in Back-end Development 😄
-- 🌱 I’m currently learning Java and PHP
+- 🌱 I’m currently learning Java
 
 
 
