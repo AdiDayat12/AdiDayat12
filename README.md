@@ -1,25 +1,23 @@
-# Welcome to AdiDayat12's GitHub Profile!
+<h1 align="center">Hi 👋, I'm Adi</h1>
+<h3 align="center">I have a solid understanding of Java and am committed to furthering my knowledge.</h3>
 
+- 🔭 I’m currently working on **...**
 
+- 🌱 I’m currently learning **Java, Spring**
 
-<marquee>Welcome to my GitHub profile! Enjoy browsing through my projects!</marquee>
+- 📫 How to reach me **adilinan72@gmail.com**
 
-## Language & Tools
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com/)
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />](https://www.jetbrains.com/idea/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/a_adihidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_adihidayat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adilinan72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adilinan72" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## Other Skills
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; opacity:0.3;" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; opacity:0.3;" />](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; opacity:0.3;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px; opacity:0.3;" />](https://www.php.net/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilinan72&show_icons=true&locale=en&layout=compact" alt="adilinan72" /></p>
 
-<br/>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilinan72&show_icons=true&locale=en" alt="adilinan72" /></p>
 
-[![AdiDayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiDayat12)](https://github.com/AdiDayat12/github-readme-stats)
-
-<marquee direction="up">Thanks for visiting my profile! Have a great day!</marquee>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adilinan72&" alt="adilinan72" /></p>
