@@ -19,5 +19,7 @@
 <br/>
 <br />
 
+[![AdiDayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiDayat12)](https://github.com/AdiDayat12/github-readme-stats)
+
 <marquee direction="up">Thanks for visiting my profile! Have a great day!</marquee>
 
