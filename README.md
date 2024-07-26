@@ -52,5 +52,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiDayat12&" alt="AdiDayat12" /></p>
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](github-snake.svg#gh-light-mode-only)
+
 
 
