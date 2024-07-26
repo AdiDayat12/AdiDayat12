@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AdiDayat12&color=green&style=flat-square&abbreviated=true)
 <h1 align="center">Hi 👋, I'm Adi</h1>
 <h3 align="center">I have a solid understanding of Java and am committed to furthering my knowledge.</h3>
 
@@ -51,5 +52,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiDayat12&" alt="AdiDayat12" /></p>
 
-![](https://komarev.com/ghpvc/?username=AdiDayat12&color=green&style=flat-square&abbreviated=true)
+
 
