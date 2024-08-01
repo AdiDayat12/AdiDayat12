@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
     
-  <a href="https://www.linkedin.com/in/adi-hidayat/" target="_blank">
+  <a href="https://www.linkedin.com/in/adi-hidayat-ba40292ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
