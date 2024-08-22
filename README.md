@@ -11,7 +11,7 @@
  
  🔭 I’m currently seeking an internship to gain valuable experience. I have skills in Java and I'm eager to apply them in a professional setting.
  
- 🌱 I’m currently learning **JAVA**
+ 🌱 I’m currently learning **JAVA & Spirng Boot**
 
 💬 Ask me about **...**
 
